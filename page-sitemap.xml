@@ -7,6 +7,20 @@
     </url>
     
     <url>
+        <loc>https://enterkey.github.io/about/</loc>
+        <lastmod>2019-01-24T08:52:52.428Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://enterkey.github.io/404.html</loc>
+        <lastmod>2019-01-24T07:47:57.692Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://enterkey.github.io/tags/</loc>
         <lastmod>2019-01-24T04:42:19.122Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,20 +30,6 @@
     <url>
         <loc>https://enterkey.github.io/archive/</loc>
         <lastmod>2019-01-24T04:42:19.098Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://enterkey.github.io/about/</loc>
-        <lastmod>2019-01-24T04:42:19.098Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://enterkey.github.io/404.html</loc>
-        <lastmod>2019-01-24T04:42:19.090Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
